@@ -25,7 +25,7 @@ sum_a_mat(sum_a_mat==0)=1;
 logic_a_mat=false(size(sum_a_mat));
 
 disp(sprintf('Now adjust initial brightness/contrast cutoff to let computer get ballpark estimate how bright the letters\n are with respect to backgroud (an algorithm will then make it better!). Try numbers anywhere from 1 to 254 (more likely something in\n the middle) and make sure you could see the letters stand out alone in white in a sea of black.'));
-for i=1:10
+for i=1:30
     if i==1
         figure
     end
