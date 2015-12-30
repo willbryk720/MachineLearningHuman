@@ -1,7 +1,8 @@
 # MachineLearningHuman
 You teach a computer your handwriting. Then you can take an image of your handwriting, upload it, and have the computer convert it to text.
 
-Here's how to work it: First, download the files into a folder on Matlab. Then upload an image of your handwriting to the folder. This will be to teach the program how you write your letters/symbols. Try to include all the letters/symbols that you normally use, and write each a few times to give the program an accurate probability distribution for each letter. Make sure: - 1. To write on a blank sheet of paper
+Here's how to work it: First, download the files into a folder on Matlab. Then upload an image of your handwriting to the folder. This will be to teach the program how you write your letters/symbols. Try to include all the letters/symbols that you normally use, and write each a few times to give the program an accurate probability distribution for each letter. Make sure: 
+- 1. To write on a blank sheet of paper
 - 2. To space out the letters so they don't touch (no script!)
 - 3. To space out your lines of text and to take a picture directly above the paper so that the lines are directly above one another (not slanted)
 - 4. Write naturally and comfortably so what you write is an accurate depiction of your actual handwriting. I have included a screenshot called "teaching_text.png" for a first example.
