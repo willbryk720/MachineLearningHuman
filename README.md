@@ -23,4 +23,4 @@ Wait for the magic to happen! (Well, almost)
 
 The program does have difficulties with letters/symbols that have separate non-touching parts (like "i" and "j" and "!") because of the way the program reads the letters. The program also cannot handle different letters that are touching each other. This problem is explained more in the comments in the files. There are solutions that I may attempt in the future. 
 
-Also, this project was meant to be a proof of concept for myself. When I wrote it I did not have other readers in mind, so it may be lacking in comments, and may lack approachable organization. 
+Also, this project was meant to be a proof of concept for myself. When I wrote it I did not have other readers in mind, so it may be lacking in comments, and may lack approachable organization as well as efficiency.
